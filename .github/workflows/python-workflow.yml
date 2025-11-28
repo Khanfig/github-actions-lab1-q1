@@ -15,4 +15,4 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install -r requirements.txt
+        pip install -r "/Users/salimkhan/code/vscode/learning_projects/lab_two/github-actions-lab1-q1/requirements.txt"
